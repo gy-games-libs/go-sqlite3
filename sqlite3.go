@@ -116,7 +116,7 @@ import (
 	"time"
 	"unsafe"
 
-	"golang.org/x/net/context"
+	"github.com/gy-games-libs/net/context"
 )
 
 // SQLiteTimestampFormats is timestamp formats understood by both this module
